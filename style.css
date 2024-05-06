@@ -1,0 +1,21 @@
+h1 {
+    font-size: 36px; /* Augmente la taille de la police */
+    text-align: center;
+    color: #ff5733; /* Change la couleur du texte en orange */
+    font-family: Arial, sans-serif; /* Change la police du texte */
+    font-weight: bold; /* Rend le texte en gras */
+    text-transform: uppercase; /* Met le texte en majuscules */
+}
+
+p {
+    font-size: 30px; /* Réduit la taille de la police */
+    text-align: justify; /* Justifie le texte */
+    font-family: 'Times New Roman', serif; /* Change la police du texte */
+    line-height: 1.5; /* Augmente l'espacement entre les lignes */
+}
+
+body {
+    background-color: #66cccc; /* Change la couleur de fond en cyan */
+    margin: 0; /* Supprime les marges par défaut du corps */
+    padding: 20px; /* Ajoute un espacement intérieur */
+}
